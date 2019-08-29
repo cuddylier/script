@@ -179,14 +179,15 @@ print_speedtest() {
     speed_test '17251' 'Guangzhou CT'
     speed_test '23844' 'Wuhan     CT'
     speed_test '7509' 'Hangzhou  CT'
+    speed_test '19076' 'Chongqing CT'
 	speed_test '3973' 'Lanzhou   CT'
+	speed_test '3633' 'Shanghai  CT'
 	speed_test '24447' 'Shanghai  CU'
 	speed_test '5724' "Heifei    CU"
 	speed_test '5726' 'Chongqing CU'
-	speed_test '17228' 'Xinjiang  CM'
-	speed_test '18444' 'Xizang    CM'
-	speed_test '17230' 'Alxa      CM'
 	speed_test '25858' 'Beijing   CM'
+	speed_test '16375' 'Changchun CM'
+	speed_test '16171' 'Fuzhou    CM'
 	 
 	rm -rf speedtest.py
 }
